@@ -1,5 +1,4 @@
 from zipfile import ZipFile
-from regex import R
 from config import temp_path
 import os
 
