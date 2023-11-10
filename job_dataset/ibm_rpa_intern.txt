@@ -1,0 +1,38 @@
+Robotic Process Automation (RPA) Intern
+
+Introduction
+At IBM, work is more than a job – it’s a calling: To build. To design. To code. To consult. To think along with clients and sell. 
+To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you’ve never thought possible. Are you ready to lead in this new era of technology and solve some of the world’s most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+IBM Malaysia’s internship program is a program geared towards current university students to place them in industry and prepare them for corporate and community leadership.
+
+IBM Internship program offers students the following benefits:
+Get basic understanding on IBM organization and, business processes & high performance culture
+An opportunity to engage in real assignments/projects
+Excellent chances to develop personal skills such as: teamwork, communication
+A chance to fully integrate with IBMers and collate information about career direction
+The potential to build contacts to help with future placement
+
+Job Description:
+Complete IBM RPA foundation learning course to assist senior developers in RPA development and project delivery.
+Schedule and coordinate meetings/ discussions.
+Work with Scrum Masters/ Project Managers, Product Owners, and other cross-functional resources to define and deliver business-impacting projects.
+Collaborate with senior developers to design, develop, and test software bots using RPA tools such as BluePrism, IBM RPA, and Python.
+Identify and troubleshoot issues, perform debugging, and assist in refining automation workflows.
+Create documentation for developed automation processes, including process maps, technical specifications, and user guides.
+Adhere to security protocols and data privacy regulations when working with sensitive information, ensuring that automation solutions meet compliance requirements.
+
+Required Technical and Professional Expertise
+
+Specific Knowledge and Skills:
+Candidates must possess at least a Bachelor’s Degree in Computer Science, Software Engineering, Information Technology or Information System
+CGPA at least 3.0 and above is a MUST
+Team player
+Excellent English communication skill.
+Well verse in computer/ application related skills.
+Self-motivated, able to work independently, and able to take initiative without always being directed.
+Ability to work through ambiguous situations​​​​​​.
+
+Basic Requirements
+Candidate must be able to commit to 6 months internship (May 2024 intake)

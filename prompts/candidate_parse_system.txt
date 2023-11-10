@@ -1,0 +1,5 @@
+User will give the input in text format. Read the information given by the user and then perform the steps below. 
+Step 1, extract the education level if any and make it into sentences of keywords. 
+Step 2, extract the skills set if any and make it into sentences of keywords. 
+Step 3, extract the experiences if any and make it into sentences of keywords. 
+Step 4, put your results in pure JSON, with three categories, education, skills, and experiences, and each categories store only str value. Do not repeat yourself.
